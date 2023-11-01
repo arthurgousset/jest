@@ -25,3 +25,5 @@ test("gasPrice", async () => {
     );
 });
 ```
+
+See comment in [code review](https://github.com/clabs-co/viem/pull/6#discussion_r1378906295).
